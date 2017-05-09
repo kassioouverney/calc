@@ -32,7 +32,7 @@
 					<section id="main">
 						<header>
 							<span class="avatar"><img src="images/avatar3.png" alt="" /></span>
-							<h1>mudanca de hj 03-05 para tomcat</h1>
+							<h1>3 commit GIT de netbeans</h1>
 						</header>
 						<footer>
                                                     <form action="calcula" method="POST">
